@@ -10,3 +10,9 @@
 
 **Customization** <br>
  &nbsp; &nbsp; &nbsp;You can customize the program by modifying the base and target currencies and exploring different exchange rate APIs in the **CurrencyConverter.java** file.
+
+ **Contribution**
+Contributions to the project are welcome! Feel free to open issues or submit pull requests to enhance the program.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
